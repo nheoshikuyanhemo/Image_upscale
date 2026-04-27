@@ -1,2 +1,2 @@
-# Image_upscale
+# upscale
 To enlarge the image scale  
